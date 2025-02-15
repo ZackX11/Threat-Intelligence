@@ -1,0 +1,25 @@
+{
+  "IoCs": {
+    "Domains": [
+      "blogs.blackberry.com",
+      "redacted.redacted.com",
+      "blackberry.com"
+    ],
+    "MD5 Hashes": [
+      "885B04081BD89F5E23CBC59723052601",
+      "62D3FF36EC8A721488E512E1C94B2744",
+      "A04D2C0AA0A798047161118B5D5816AA"
+    ],
+    "SHA256 Hashes": [
+      "6d515dafef42a5648754de3c0fa6adfcb8b57af1c1d69e629b0d840dab7f91ec",
+      "16bd34c3f00288e46d8e3fdb67916aa7c68d8a0622f2c76c57112dae36c76875",
+      "abc348d3cc40521afc165aa6dc2d66fd9e654d91e3d66461724ac9490030697f"
+    ],
+    "Emails": [
+      "cti@blackberry.com"
+    ],
+    "Files": [
+      "cmd.exe"
+    ]
+  }
+}

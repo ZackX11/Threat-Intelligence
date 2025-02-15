@@ -1,0 +1,108 @@
+{
+  "IoCs": {
+    "IPv4 addresses": [
+      "213.226.123.14"
+    ],
+    "URLs": [
+      "http://213.226.123.14/8bmeVwqx/Plugins/clip.dll",
+      "http://213.226.123.14/8bmeVwqx/index.php",
+      "http://213.226.123.14/8bmeVwqx/Plugins/cred.dll",
+      "https://subirfact.com/onLyofFicED.bat",
+      "http://213.226.123.14/8bmeVwqx/index.php?scr=1",
+      "http://213.226.123.14/8bmeVwqx/Plugins/cred64.dll",
+      "http://213.226.123.14/8bmeVwqx/Plugins/clip64.dll"
+    ],
+    "Domains": [
+      "autgerman.autgerman.com",
+      "subirfact.com",
+      "mp.weixin.qq.com"
+    ],
+    "MD5 Hashes": [
+      "FDD66DC414647B87AA1688610337133B",
+      "461A67CE40F4A12863244EFEEF5EBC26",
+      "5590C7E442E8D2BC857813C008CE4A6C",
+      "c1eeb77920357a53e271091f85618bd9",
+      "05B99BEE0D8BA95F5CCB1D356939DAA8",
+      "57A169A5A3CA09A0EDE3FEDC50E6D222",
+      "303ACDC5A695A27A91FEA715AE8FDFB8",
+      "FECB399CAE4861440DF73EAA7110F52C",
+      "C92A9FA4306F7912D3AF58C2A75682FD",
+      "20561F6497492900567CBF08A20AFCCA",
+      "64E6B811153C4452837E187A10D54665",
+      "42DD207E642CEC5A12839257DF892CA9"
+    ],
+    "Files": [
+      "clip.dll",
+      "cred64.dll",
+      "index.php",
+      "cred.dll",
+      "clip64.dll"
+    ]
+  },
+  "TTPs": {
+    "Tactics": [
+      {
+        "TA0002": "Execution"
+      },
+      {
+        "TA0003": "Persistence"
+      },
+      {
+        "TA0007": "Discovery"
+      },
+      {
+        "TA0008": "Lateral Movement"
+      },
+      {
+        "TA0009": "Collection"
+      }
+    ],
+    "Techniques": [
+      {
+        "T1059.001": "Powershell"
+      },
+      {
+        "T1566": "Phishing"
+      }
+    ]
+  },
+  "Threat Actor(s)": [
+    "PDF",
+    "Amadey’s",
+    "Digital Security Group",
+    "CC",
+    "APT-C-36 (Blind\nEagle",
+    "Net_dll",
+    "DM Current",
+    "Attribution Research",
+    "Computer",
+    "un",
+    "APT",
+    "Amadey",
+    "Advanced Threat Institute",
+    "ID Infected",
+    "Powershell",
+    "KoAOkX.MXuuJb",
+    "Nightmare Formula",
+    "APT-C-36",
+    "DDos",
+    "Remcos",
+    "Sandbox",
+    "APT-C-36 (Blind Eagle",
+    "Appendix IOC",
+    "beas64",
+    "dll",
+    "CrubCrypt",
+    "Advanced Threat Research Institute",
+    "Trojan",
+    "http://213.226.123.14/8bmeVwqx/Plugins/cred.dll\nhttp://213.226.123.14/8bmeVwqx/Plugins/clip64.dll"
+  ],
+  "Targeted Entities": [
+    "Ecuador",
+    "Colombia",
+    "Russian",
+    "Panama",
+    "Trojan",
+    "Gzip"
+  ]
+}
